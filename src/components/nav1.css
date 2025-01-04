@@ -1,0 +1,105 @@
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: red;
+}
+
+.navbar{
+    background-color: white;
+    
+}
+
+.position-relative{
+    position: relative;
+}
+.overlay {
+    position: absolute;
+    top: 40%;
+    left: 40px;
+    transform: translateY(-50%); 
+    color: white;
+}
+.learnMore{
+    border: 2px solid white;
+    color: white;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-family: cursive;
+}
+.image{
+    height: 250px;
+    
+}
+
+/* program of signin and sign up page */
+.auth-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+}
+
+.auth-header {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.auth-toggle {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.auth-toggle.active {
+    color: white;
+    background-color: #007bff;
+    border-radius: 4px;
+}
+
+.auth-body {
+    padding: 20px;
+}
+
+.auth-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.auth-form input {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.auth-form button {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.auth-form button:hover {
+    background-color: #0056b3;
+}
+
+form a{
+    text-decoration: none;
+    color: green;
+}
