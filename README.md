@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 #This is a readme file contains the all the details
+author-Utkarsh
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
