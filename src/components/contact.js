@@ -42,7 +42,7 @@ const AuthPage = () => {
 
 const SignInForm = () => (
     <form className="auth-form">
-        <h2>Sign In</h2>
+        <h2>Login</h2>
         <input type="email" placeholder="Email" required />
         <input type="password" placeholder="Password" required />
         <button type="submit">Sign In</button>
