@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 #This is a readme file contains the all the details
 <br>
-This is a basic fashion website using a react js .
+This is a basic fashion website using a react js and it is a responsive  .
 <br>
 author-Utkarsh
 
